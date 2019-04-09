@@ -1,0 +1,264 @@
+@media (max-width: 1199.98px){
+    .features h5{
+        font-size: 16px;
+    }
+    .features p{
+        font-size: 14px;
+    }
+    .price-subtitle{
+        margin-bottom: 20px;
+    }
+    .price-btn{
+        margin-bottom: 40px;
+        margin-top: 0;
+    }
+    .price-card{
+        width: 310px;
+    }
+    .right-text{
+        font-size: 14px;
+    }
+    .video{
+        height: 250px;
+    }
+    .comment{
+        margin-top: 20px;
+    }
+    .feedback .hand{
+        left: -190px;
+    }
+    .scheme{
+        background-position: 580px 242px;
+    }
+    .services img{
+        width: 100%;
+    }
+}
+@media (max-width: 991.98px){
+    .header-title{
+        font-size: 28px;
+    }
+    .header-subtitle{
+        font-size: 20px;
+    }
+    header .pay{
+        font-size: 19px;
+    }
+    .features p{
+        margin-bottom: 50px;
+    }
+    .features{
+        padding-bottom: 50px;
+    }
+    .price-card{
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    .price{
+        padding-bottom: 60px;
+    }
+    .video{
+        height: 225px;
+    }
+    .right-text{
+        font-size: 13px;
+        margin-bottom: 8px;
+    }
+    .customer{
+        margin-top: 10px;
+    }
+    .feedback form{
+        width: 690px;
+    }
+    .feedback .hand{
+        left: -275px;
+    }
+    .scheme{
+        background-position: 400px 503px;
+    }
+    .solutions{
+        margin-top: 50px;
+    }
+    .woman{
+        bottom: 42%;
+        left: 80%;
+    }
+    .work{
+        text-align: center;    
+    }
+    
+    .work form{
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .services img{
+        width: 330px;
+    }
+}
+@media (max-width: 767.98px){
+    .logo{
+        text-align: center;
+    }
+    header{
+        text-align: center;
+    }
+    .header-subtitle{
+        margin: 0 auto;
+        margin-bottom: 40px;
+    }
+    header .cost{
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+    header form{
+        margin: 0 auto;
+    }
+    .header-title{
+        margin-top: 50px;
+    }
+    .features p{
+        width: 400px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+    }
+    .slider-img,
+    .customer,
+    .comment{
+        display: none;
+    }
+    .item-left{
+        height: 225px;
+        margin-bottom: 30px;
+    }
+    .carousel-item.active{
+        flex-direction: column;
+    }
+    .item-left,
+    .item-right{
+        width: 100%;
+    }
+    .feedback form{
+        width: 510px;
+        height: 420px;
+    }
+    .feed-input{
+        flex-direction: column;
+        align-items: center;
+        width: 510px;
+    }
+    .scheme{
+        text-align: center;
+        background-image: none;
+        padding: 50px 0;
+    }
+    .woman{
+        display: none;
+    }
+    .contacts h2{
+        text-align: center;
+    }
+    
+    .contacts form{
+        margin-top: 50px;
+    }
+    .footer-right{
+        width: 100%;
+        text-align: center;
+        margin-top: 30px;
+    }
+}
+@media (max-width: 575.98px){
+    .header-contact{
+        flex-direction: column;
+    }
+    .header-title{
+        font-size: 22px;
+    }
+    header form,
+    .work form,
+    .contacts form{
+        width: 290px;
+        padding: 47px 18px;
+    }
+    header .num{
+        margin-bottom: 30px;
+    }
+    .features p{
+        width: 290px;
+    }
+    .price-btn{
+        width: 290px;
+    }
+    .price-card{
+        width: 290px;
+        padding: 50px 16px 0;
+    }
+    .price{
+        padding: 50px 0 10px 0;
+    }
+    
+    .features{
+        padding-top: 50px;
+        padding-bottom: 0;
+    }
+    .features h2{
+        margin-bottom: 70px;
+    }
+    .carousel-control-prev,
+    .carousel-control-next{
+        display: none;
+    }
+    .carousel {
+        padding: 20px;
+    }
+    .feedback form{
+        width: 290px;
+    }
+    .feed-input{
+        width: 290px;
+    }
+    .feedback .hand{
+        display: none;
+    }
+    .feedback{
+        padding: 50px 0;
+    }
+    .feedback h2{
+        margin-bottom: 50px;
+    }
+    .problems{
+        height: 420px;
+    }
+    .solutions{
+        height: 480px;
+    }
+    .danger{
+        padding: 50px 0;
+    }
+    .all{
+        padding: 50px 0;
+    }
+    .work{
+        padding: 50px 0;
+    }
+    .services img{
+        width: 100%;
+    }
+    .services{
+        padding: 50px 0;
+    }
+    .contacts{
+        padding: 50px 0;
+    }
+    footer{
+        text-align: center;
+    }
+    .footer-left,
+    .footer-middle{
+        width: 100%;
+        margin-bottom: 30px;
+    }
+    .footer-right{
+        margin: 0;
+    }
+}
